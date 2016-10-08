@@ -11,7 +11,18 @@ Future edits could include:
 > charts/graphs
 > more colors
 > printer friendly format
-> error handling
-> percentages in the number format
+> error handling (most important ones have been fixed.)
+> Non-profitable trades with stops caluation configuration
+> Describe the color changes in font for stops capturing profit.
+> Put in quote about typical reward to risk ratio for a risk-off trader.
 
 It is up to you what you do with it, but the basics are there to keep track of your trades if you want it.
+
+What has been updated
+
+> error handling
+> percentages in the number format
+> futures contract calculations with contract tick size and tick value
+> Tradable Futures, >= Value/Tick, & Match
+> Fixed String -> Double for TextBoxes
+> Fized caculations for stops > Entry
